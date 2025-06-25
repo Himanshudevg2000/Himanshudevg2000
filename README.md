@@ -76,19 +76,6 @@ I'm a passionate **Fullstack Developer** who thrives on building scalable, user-
 
 ---
 
-## 📊 GitHub Stats & Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshudevgade&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshudevgade&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshudevgade&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ### 🧩 LeetCode Stats
 <div align="center">
@@ -114,8 +101,6 @@ const himanshu = {
 };
 ```
 
----
-
 ## 💬 Ask Me About
 
 - 🧩 JavaScript & TypeScript best practices
@@ -125,14 +110,6 @@ const himanshu = {
 - ☁️ AWS cloud services and deployment
 - 📦 DevOps practices and CI/CD
 - 💡 Software architecture and design patterns
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshudevgade&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
 
 ---
 
