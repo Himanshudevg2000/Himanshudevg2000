@@ -94,9 +94,3 @@ I'm a passionate **Fullstack Developer** who thrives on building scalable, user-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/bebeast2022/)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
